@@ -2,10 +2,15 @@
 
 ## 📖 Overview
 
-Welcome to the codebase for my Master’s thesis and internship project at the IBM Watson Center in Munich. This was the first “big” code project I carried out, and it culminated in:
+Welcome to the codebase for my Master’s thesis and internship project at the IBM Watson Center in Munich. This was the first “big” code project I carried out, and lead to:
 
 - A live demonstrator showcased in the IBM showroom  
-- My first peer-reviewed publication (IEA/AIE 2022)  
+- My first peer-reviewed publication (IEA/AIE 2022):
+  
+  > Wehner, C., Powlesland, F., Altakrouri, B., & Schmid, U. (2022, July). _Explainable online lane change predictions on a digital twin with a layer normalized LSTM and layer-wise relevance propagation_. In _International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems_ (pp. 621–632). Cham: Springer International Publishing.
+   
+  [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eU7sl_kAAAAJ&citation_for_view=eU7sl_kAAAAJ:u-x6o8ySG0sC)  
+ 
 
 Here I explore how to **predict** and **explain** lane-change maneuvers on a digital twin of a German autobahn using:
 
