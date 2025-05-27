@@ -1,0 +1,201 @@
+
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 4429422 frequency: 0.3333333333333333
+same: 4429422 frequency: 0.3333333333333333
+right: 4429422 frequency: 0.3333333333333333
+validation_balanced:
+left: 500294 frequency: 0.3333333333333333
+same: 500294 frequency: 0.3333333333333333
+right: 500294 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 4429422 frequency: 0.3333333333333333
+same: 4429422 frequency: 0.3333333333333333
+right: 4429422 frequency: 0.3333333333333333
+validation_balanced:
+left: 500294 frequency: 0.3333333333333333
+same: 500294 frequency: 0.3333333333333333
+right: 500294 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+training_unbalanced:
+left: 306310 frequency: 0.023051164087172848
+same: 12468960 frequency: 0.9383436484489398
+right: 512996 frequency: 0.03860518746388731
+validation_unbalanced:
+left: 36617 frequency: 0.02439698790444552
+same: 1408169 frequency: 0.9382276554719159
+right: 56096 frequency: 0.03737535662363863
+training_balanced:
+left: 306310 frequency: 0.3333333333333333
+same: 306310 frequency: 0.3333333333333333
+right: 306310 frequency: 0.3333333333333333
+validation_balanced:
+left: 36617 frequency: 0.3333333333333333
+same: 36617 frequency: 0.3333333333333333
+right: 36617 frequency: 0.3333333333333333
+Testing:
+left: 24463 frequency: 0.02352912887495311
+same: 976707 frequency: 0.9394213659840914
+right: 38520 frequency: 0.03704950514095548
+Testing:
+left: 24463 frequency: 0.02352912887495311
+same: 976707 frequency: 0.9394213659840914
+right: 38520 frequency: 0.03704950514095548
